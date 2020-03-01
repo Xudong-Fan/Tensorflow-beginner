@@ -1,2 +1,2 @@
 # Tensorflow-beginner
-Tensorflow tutorial for beginners
+Tensorflow tutorial for beginners。
